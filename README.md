@@ -1,4 +1,4 @@
-# OAuth1 client/server demo
+# OAuth2 client demo
 
 ## Usage
 
